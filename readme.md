@@ -1,3 +1,5 @@
+# The realization of paper 'HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition'
+
 ## HD-CNN
 * remember to chage the data address: 'root_path' in dataset.py
 * Change: 'Determine which dataset to be used ================ cifar-10/cifar-100'
@@ -10,3 +12,5 @@
 ### Possible problems
 * I am not sure if cuda works
 * I am not sure if fine-tune part have problem as the accuracy looks a little weird _I am trying to find why_
+
+This repository contains source code from an early-stage undergraduate research project. It is not actively maintained, and the included implementations reflect the practices at the time of the study rather than current standards.
